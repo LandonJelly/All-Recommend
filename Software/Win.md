@@ -29,3 +29,7 @@
 ### 加密
 - VeraCrypt (磁盘加密)
 - Cryptomator (小文件加密)
+
+数据库
+
+- DataGrip
