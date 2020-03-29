@@ -1,7 +1,7 @@
 <!--
  * @Description: This file is made for
  * @Date: 2020-02-21 18:58:22
- * @LastEditTime: 2020-03-27 22:48:24
+ * @LastEditTime: 2020-03-28 08:23:12
  * @Author: LeongD
  * @LastEditors: LeongD
  -->
@@ -22,6 +22,7 @@
 ## 书单
 
 - 《英文观止》，英语长难句思维训练
+- 《美国语文》
 
 ## 口语
 
