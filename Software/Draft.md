@@ -29,6 +29,8 @@ Mac 磁盘分析工具
 [ iMazing
 以自己的方式管理 iPhone.](https://imazing.com/zh) | iMazing 以自己的方式管理 iPhone。
 
+[Mowglii \- Itsycal for Mac](https://www.mowglii.com/itsycal/) | 小历 更新为 开源 Itsycal （菜单栏日历）
+
 [Mac 文件夹换图标](https://www.appinn.com/gradient-folders/)
 
 [我的 Mac 装机必备 \- 简书](https://www.jianshu.com/p/f579fd5a2142)
